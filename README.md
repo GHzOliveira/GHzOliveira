@@ -1,8 +1,8 @@
 ### Oie!! Bem vindo ao meu perfil, eu sou o Guilherme Henrique, sou DEV Full Stack
 <div align="center">
   <a href="https://github.com/GHzOliveira">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=GHzOliveira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHzOliveira&layout=compact&langs_count=7&theme=merko"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=GHzOliveira&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHzOliveira&layout=compact&langs_count=7&theme=merko">
 </div>
   
 <div style="display: inline_block"><br>
@@ -13,9 +13,9 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gui-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Gui-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
   <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gui-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
