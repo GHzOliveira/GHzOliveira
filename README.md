@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Developer with 3 years of experience, passionate about creating innovative and high-quality solutions. Specialized in applying agile methodologies and Design Patterns to develop products that exceed customer expectations.**
 
-- 🔭 I’m currently working on [cmtt-frontend](https://github.com/dmk3-dev/sgtp_front_cidadao)
+- 🔭 I’m currently working on [SGTP](https://github.com/dmk3-dev/sgtp_front_cidadao)
 
 - 🌱 I’m currently learning **AWS, Kubernets, GraphQL, etc..**
 
