@@ -1,7 +1,7 @@
 <h1 align="center">Welcome in my world !</h1>
 <h3 align="center">Hi 👋, I'm Guilherme! A passionate full stack developer from Brazil.</h3>
 
-- 💬 Ask me about **Developer with 3 years of experience, passionate about creating innovative and high-quality solutions. Specialized in applying agile methodologies and Design Patterns to develop products that exceed customer expectations.**
+- 💬 Ask me about **Developer with 4 years of experience, passionate about creating innovative and high-quality solutions. Specialized in applying agile methodologies and Design Patterns to develop products that exceed customer expectations.**
 
 - 🔭 I’m currently working on [SGTP](https://github.com/dmk3-dev/sgtp_front_cidadao)
 
